@@ -2,11 +2,74 @@
   "type": "object",
   "articles": [
     {
-      "title": "Taxi industry welcomes Blade Nzimande's recapitalisation programme",
-      "description": "Taxi industry welcomes Blade Nzimande's recapitalisation programme ... South African National Taxi Council spokesperson, Thabiso ...",
-      "url": "https://www.sowetanlive.co.za/news/2019-04-25-taxi-industry-welcomes-blade-nzimandes-recapitalisation-programme/",
-      "publishedAt": "25 Apr 2019",
-      "source": "SowetanLIVE Sunday World"
+      "title": "Murdered Durban taxi boss was 'harmless', says family",
+      "description": "Taxi boss Neil Jainarain, 46, was killed in a drive-by shooting on ... director of private security company Reaction Unit South Africa, said security ...",
+      "url": "https://www.iol.co.za/sunday-tribune/news/murdered-durban-taxi-boss-was-harmless-says-family-23547071",
+      "publishedAt": "19 May 2019",
+      "source": "Independent Online"
+    },
+    {
+      "title": "The SA minibus taxi industry is absolutely massive – here’s everything you need to know",
+      "description": "In a tough economy, which probably shrank dramatically in the first quarter of the year, one sector continued to grow in South Africa.",
+      "url": "https://www.businessinsider.co.za/how-big-is-south-african-taxi-industry-2019-5",
+      "publishedAt": "18 May 2019",
+      "source": "Business Insider South Africa"
+    },
+    {
+      "title": "One killed, seven injured in Gauteng minibus taxi collision",
+      "description": "Johannesburg - At least one person was killed and seven other people were injured, some seriously, in a head-on collision between two ...",
+      "url": "https://www.iol.co.za/news/south-africa/gauteng/one-killed-seven-injured-in-gauteng-minibus-taxi-collision-23455510",
+      "publishedAt": "18 May 2019",
+      "source": "Independent Online"
+    },
+    {
+      "title": "George taxi operators face route closure due to violence",
+      "description": "George's taxi industry faces a possible two-month shutdown as ongoing disputes over the final phase of the subsidised Go George bus service ...",
+      "url": "https://www.news24.com/SouthAfrica/News/george-taxi-operators-face-route-closure-due-to-violence-20190517",
+      "publishedAt": "17 May 2019",
+      "source": "News24"
+    },
+    {
+      "title": "Rustenburg taxi drivers block streets over impounded taxis",
+      "description": "Police patrol streets near the Rustenburg taxi rank after taxi drivers blocked them demanding that the Rustenburg municipality release five ...",
+      "url": "https://citizen.co.za/news/south-africa/protests/2131636/rustenburg-taxi-drivers-block-streets-over-impounded-taxis/",
+      "publishedAt": "16 May 2019",
+      "source": "Citizen"
+    },
+    {
+      "title": "Our readers share their most memorable moments in South African taxis",
+      "description": "Earlier, we asked South Africans what their most memorable moments were in a taxi and the post received an overwhelming response.",
+      "url": "https://briefly.co.za/30039-our-readers-share-memorable-moments-south-african-taxis.html",
+      "publishedAt": "16 May 2019",
+      "source": "Briefly.co.za"
+    },
+    {
+      "title": "Toyota targets wider market with new Quantum, retains old model for taxi industry",
+      "description": "Toyota this week unveiled a new generation Quantum minibus, but says it will retain the old Quantum for use by South Africa's minibus taxi ...",
+      "url": "https://www.engineeringnews.co.za/article/toyota-targets-wider-market-with-new-quantum-retains-old-model-for-taxi-industry-2019-05-16",
+      "publishedAt": "16 May 2019",
+      "source": "Creamer Media's Engineering News"
+    },
+    {
+      "title": "Taxi owner gunned down in drive-by shooting",
+      "description": "Niel Jainarian, who is believed to be the owner of a fleet of taxis, was found by members of security firm Reaction Unit South Africa (Rusa) in his ...",
+      "url": "https://www.iol.co.za/mercury/news/taxi-owner-gunned-down-in-drive-by-shooting-23321753",
+      "publishedAt": "16 May 2019",
+      "source": "Independent Online"
+    },
+    {
+      "title": "Cop denies giving passport back to taxi boss to travel abroad while on bail",
+      "description": "The investigating officer in the murder case of businessman Wandile Bozwana has denied handing over a passport, belonging to one of the accused ...",
+      "url": "https://www.news24.com/SouthAfrica/News/cop-denies-giving-passport-back-to-taxi-boss-to-travel-abroad-while-on-bail-20190515",
+      "publishedAt": "15 May 2019",
+      "source": "News24"
+    },
+    {
+      "title": "3 killed as ambulance swerves to avoid hitting taxi",
+      "description": "Three people were killed and a fourth was injured when an ambulance ploughed into them when trying to avoid hitting a taxi on Booth Road in ...",
+      "url": "https://www.news24.com/SouthAfrica/News/3-killed-as-ambulance-swerves-to-avoid-hitting-taxi-20190513",
+      "publishedAt": "13 May 2019",
+      "source": "News24"
     }
   ]
 }
