@@ -1,3 +1,12 @@
 {
-  "type": "object"
+  "type": "object",
+  "articles": [
+    {
+      "title": "Taxi industry welcomes Blade Nzimande's recapitalisation programme",
+      "description": "Taxi industry welcomes Blade Nzimande's recapitalisation programme ... South African National Taxi Council spokesperson, Thabiso ...",
+      "url": "https://www.sowetanlive.co.za/news/2019-04-25-taxi-industry-welcomes-blade-nzimandes-recapitalisation-programme/",
+      "publishedAt": "25 Apr 2019",
+      "source": "SowetanLIVE Sunday World"
+    }
+  ]
 }
