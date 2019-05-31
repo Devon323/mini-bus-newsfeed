@@ -2,6 +2,38 @@
   "type": "object",
   "articles": [
     {
+      "title": "One of two people killed in Goodwood hijacking was a Rwanda ...",
+      "description": "Rwandan high commissioner to SA Vincent Karega confirmed that Camir Nkuruziza was a metered taxi driver who was hijacked on on the ...",
+      "url": "https://www.timeslive.co.za/news/south-africa/2019-05-31-one-of-two-people-killed-in-goodwood-hijacking-was-a-rwanda-national-and-critic-of-its-government/",
+      "urlToImage": "https://www.vocfm.co.za/wp-content/uploads/2015/10/taxis-1024x681.jpg",
+      "publishedAt": "31 May 2019",
+      "source": "TimesLIVE"
+    },
+    {
+      "title": "WATCH: 2 shot dead after cops chase hijackers through Goodwood",
+      "description": "Two people were shot dead after police chased a hijacked taxi through the streets of Cape Town, resulting in a multi-vehicle crash in ...",
+      "url": "https://www.news24.com/SouthAfrica/News/watch-2-shot-dead-after-cops-chase-hijackers-through-goodwood-20190531",
+      "urlToImage": "https://www.vocfm.co.za/wp-content/uploads/2015/10/taxis-1024x681.jpg",
+      "publishedAt": "31 May 2019",
+      "source": "News24"
+    },
+    {
+      "title": "Taxi drivers clash with 'nyaope boys' in Pretoria CBD",
+      "description": "A clash between taxi drivers and alleged drug users occurred in the CBD in the early hours of Monday morning, reports Pretoria East Rekord.",
+      "url": "https://citizen.co.za/news/south-africa/crime/2136078/taxi-drivers-clash-with-nyaope-boys-in-pretoria-cbd/",
+      "urlToImage": "https://citizen.co.za/wp-content/uploads/2019/05/nyaope-boys-557x418.jpeg",
+      "publishedAt": "28 May 2019",
+      "source": "Citizen"
+    },
+    {
+      "title": "Clever cops lay trap for Muizenberg taxi robbers",
+      "description": "Cape Town - Law enforcement officials in Cape Town laid an early morning trap for a group of armed robbers who have been terrorising ...",
+      "url": "https://www.iol.co.za/news/south-africa/western-cape/clever-cops-lay-trap-for-muizenberg-taxi-robbers-24184607",
+      "urlToImage": "https://image.iol.co.za/image/1/process/620x349?source=https://cdn.africannewsagency.com/public/ana/dam/media/image/2019/05/06/11235696/Green-Point-Taxi-Protest-ANA_144.JPG",
+      "publishedAt": "27 May 2019",
+      "source": "Independent Online"
+    },
+    {
       "title": "Taxi driver arrested for possession of illegal firearm, ammunition",
       "description": "Taxi driver arrested for possession of illegal firearm, ammunition ... the South African Police Service (SAPS) in Gauteng said on Sunday.",
       "url": "https://www.iol.co.za/news/south-africa/gauteng/taxi-driver-arrested-for-possession-of-illegal-firearm-ammunition-24104327",
