@@ -2,6 +2,14 @@
   "type": "object",
   "articles": [
     {
+      "title": "Two suspects arrested for taxi-related killing in Limpopo",
+      "description": "The Provincial Commissioner of the South African Police Service in Limpopo Lieutenant-General Nneke Ledwaba has condemned this ...",
+      "url": "https://www.timeslive.co.za/news/south-africa/2019-06-01-two-suspects-arrested-for-taxi-related-killing-in-limpopo/",
+      "urlToImage": "https://lh3.googleusercontent.com/dq0tWmRg_PyADlcf7d9M5dZw4oMfWys5G4YuE0MltTJuJOAEziFFORDUpOHpj3zrLtBTYiJSHyS10CjgCc8lB_E=s512",
+      "publishedAt": "01 Jun 2019",
+      "source": "TimesLIVE"
+    },
+    {
       "title": "One of two people killed in Goodwood hijacking was a Rwanda ...",
       "description": "Rwandan high commissioner to SA Vincent Karega confirmed that Camir Nkuruziza was a metered taxi driver who was hijacked on on the ...",
       "url": "https://www.timeslive.co.za/news/south-africa/2019-05-31-one-of-two-people-killed-in-goodwood-hijacking-was-a-rwanda-national-and-critic-of-its-government/",
