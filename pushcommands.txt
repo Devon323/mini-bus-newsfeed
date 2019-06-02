@@ -1,0 +1,18 @@
+git add  - Files: rank-finder-newsfeed.json 
+                  README.md
+
+git commit -m "# articles added"
+
+git push origin master
+
+//Object Template
+    {
+      "title": "",
+      "description": "",
+      "url": "",
+      "urlToImage": "",
+      "publishedAt": "",
+      "source": ""
+    },
+//Placeholder image (if not image from website)
+https://www.vocfm.co.za/wp-content/uploads/2015/10/taxis-1024x681.jpg
