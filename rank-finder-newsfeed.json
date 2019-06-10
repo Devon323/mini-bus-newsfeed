@@ -2,6 +2,46 @@
   "type": "object",
   "articles": [
     {
+      "title": "Shock as 'speedster' kills Cape student teacher",
+      "description": "“We were three taxis en route to Mitchells Plain from Cape Town via Eisleben Road. Just before the crossing, a taxi stopped. I was the third taxi.",
+      "url": "https://www.iol.co.za/news/south-africa/western-cape/shock-as-speedster-kills-cape-student-teacher-25796803",
+      "urlToImage": "https://image.iol.co.za/image/1/process/620x349?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/110935681.JPG&operation=CROP&offset=0x1763&resize=3543x1989",
+      "publishedAt": "10 Jun 2019",
+      "source": "Independent Online"
+    },
+    {
+      "title": "15 injured in Durban taxi accident",
+      "description": "Fifteen people were injured when the minibus taxi they were travelling in crashed into a car on the M1 Richmond Road over the N3 Highway in ...",
+      "url": "https://citizen.co.za/news/south-africa/2140934/15-injured-in-durban-taxi-accident/",
+      "urlToImage": "https://citizen.co.za/wp-content/uploads/2019/06/Taxi.jpg",
+      "publishedAt": "08 Jun 2019",
+      "source": "Citizen"
+    },
+    {
+      "title": "Comrades runners to take a taxi ride to the starting line",
+      "description": "Durban minibus taxi drivers have been charged with shuttling ... the CMA has joined forces with the South African National Taxi Council ..",
+      "url": "https://www.timeslive.co.za/news/south-africa/2019-06-07-comrades-runners-to-take-a-taxi-ride-to-the-starting-line/",
+      "urlToImage": "https://lh3.googleusercontent.com/dq0tWmRg_PyADlcf7d9M5dZw4oMfWys5G4YuE0MltTJuJOAEziFFORDUpOHpj3zrLtBTYiJSHyS10CjgCc8lB_E=s512",
+      "publishedAt": "06 Jun 2019",
+      "source": "TimesLIVE"
+    },
+    {
+      "title": "End of the road for taxi driver with R100,000 in fines",
+      "description": "It's the end of the road for a “warrant-dodger” with nearly R100,000 in unpaid traffic fines. A Cape Town taxi driver was arrested in Sea Point on ...",
+      "url": "https://www.timeslive.co.za/news/south-africa/2019-06-03-end-of-the-road-for-taxi-driver-with-r100000-in-fines/",
+      "urlToImage": "https://lh3.googleusercontent.com/CTf2_0wF24IxHhC9M8HmEyrzt1YCy75--7O2iwnASyu4X-HIDnD3Sfd_P7gkCFHhByjCZ5cf5Tk_qFeX694Qqg=s750",
+      "publishedAt": "03 Jun 2019",
+      "source": "TimesLIVE"
+    },
+    {
+      "title": "WATCH: Cape taxi tries showing F1 car who's the boss of the road",
+      "description": "Cape Town - One Cape Town taxi driver felt the need, the need for speed ... The free event gave thousands of South African fans the chance to ...",
+      "url": "https://www.iol.co.za/capeargus/motoring/watch-cape-taxi-tries-showing-f1-car-whos-the-boss-of-the-road-24824497",
+      "urlToImage": "https://image.iol.co.za/image/1/process/620x349?source=https://cdn.africannewsagency.com/public/ana/dam/media/image/2019/06/02/11961610/Red-Bull-race-6299.jpg&operation=CROP&offset=796x636&resize=4003x2251",
+      "publishedAt": "02 Jun 2019",
+      "source": "Independent Online"
+    },
+    {
       "title": "Two suspects arrested for taxi-related killing in Limpopo",
       "description": "The Provincial Commissioner of the South African Police Service in Limpopo Lieutenant-General Nneke Ledwaba has condemned this ...",
       "url": "https://www.timeslive.co.za/news/south-africa/2019-06-01-two-suspects-arrested-for-taxi-related-killing-in-limpopo/",
