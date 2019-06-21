@@ -2,6 +2,94 @@
   "type": "object",
   "articles": [
     {
+      "title": "24 youngsters made a deadly choice when they changed taxis for ...",
+      "description": "The decision to swap transport in favour of a taxi that played better music, proved to be tragically ill-fated for 24 youngsters who died in a horrific ...",
+      "url": "https://citizen.co.za/news/south-africa/accidents/2145447/24-youngsters-made-a-deadly-choice-when-they-changed-taxis-for-better-music/",
+      "urlToImage": "https://citizen.co.za/wp-content/uploads/2019/05/810x400-2019-05-09T112543.372.jpg",
+      "publishedAt": "21 Jun 2019",
+      "source": "Citizen"
+    },
+    {
+      "title": "Mass burial for 24 youth in taxi crash",
+      "description": "A committee has been established to coordinate the mass burial of the 24 young people who perished in an accident in Limpopo at the ...",
+      "url": "https://www.sowetanlive.co.za/news/south-africa/2019-06-20-mass-burial-for-24-youth-in-taxi-crash/",
+      "urlToImage": "https://lh3.googleusercontent.com/d4L5W4qsc_BBRD2nQfLDIW8WmQitEl4hy9XS0R8EN0NCZfov8VGo4sdZlxP5cQJ-Y5bnNOqTs3_wIv5RQiX61SzQVHXOf9pa=s512",
+      "publishedAt": "20 Jun 2019",
+      "source": "SowetanLIVE Sunday World"
+    },
+    {
+      "title": "Mamabolo pleased with verification, authentication process as Soweto ...",
+      "description": "More than a hundred minibus taxis went through the verification and ... The South Gauteng High Court has ratified the agreement and it is now ...",
+      "url": "https://citizen.co.za/news/south-africa/local-news/2144965/mamabolo-pleased-with-verification-authentication-process-as-soweto-taxi-routes-re-open/",
+      "urlToImage": "https://citizen.co.za/wp-content/uploads/2019/04/Taxi-4.jpg",
+      "publishedAt": "19 Jun 2019",
+      "source": "Citizen"
+    },
+    {
+      "title": "City of Cape Town impounds 182 taxis in crackdown",
+      "description": "The City of Cape Town on Tuesday said its law enforcement staff have arrested 55 suspects for various offences, impounded 182 vehicles and ...",
+      "url": "https://citizen.co.za/news/south-africa/crime/2144449/city-of-cape-town-impounds-182-taxis-in-crackdown/",
+      "urlToImage": "https://citizen.co.za/wp-content/uploads/2019/06/taxi.png",
+      "publishedAt": "18 Jun 2019",
+      "source": "Citizen"
+    },
+    {
+      "title": "24 confirmed dead in Limpopo taxi, bus collision",
+      "description": "A collision involving a minibus taxi and a bus on the R81 in Maphalle, in Limpopo has claimed the lives of 24 people, the Department of ...",
+      "url": "https://www.news24.com/SouthAfrica/News/24-confirmed-dead-in-limpopo-taxi-bus-collision-20190617",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8748/a60d8ff3ea83481294bccfd695984b62.jpg",
+      "publishedAt": "17 Jun 2019",
+      "source": "News24"
+    },
+    {
+      "title": "At least 32 injured in taxi crashes in Free State, KZN",
+      "description": "CAPE TOWN - At least 32 people have been injured in reported road accidents in the Free State and KwaZulu-Natal involving minibus taxis ...",
+      "url": "https://www.iol.co.za/news/south-africa/kwazulu-natal/at-least-32-injured-in-taxi-crashes-in-free-state-kzn-26410589",
+      "urlToImage": "https://image.iol.co.za/image/1/process/620x349?source=https://cdn.africannewsagency.com/public/ana/mana/media/image/2019/06/16/12339084/BLOEMFONTEINTaxioverturnsleavingfourteeninjured.jpeg",
+      "publishedAt": "16 Jun 2019",
+      "source": "Independent Online"
+    },
+    {
+      "title": "Metered taxi driver murdered by 'customer' in East London",
+      "description": "It was alleged that a meter taxi owner received a call from an unknown man to pick him up at Vincent in East London just before 4am on Friday ...",
+      "url": "https://www.iol.co.za/news/south-africa/eastern-cape/metered-taxi-driver-murdered-by-customer-in-east-london-26329554",
+      "urlToImage": "https://image.iol.co.za/image/1/process/620x349?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/iol/media/image/2019/06/15/26329554/crimescenetapepixabay.jpg&operation=CROP&offset=0x122&resize=1280x718",
+      "publishedAt": "15 Jun 2019",
+      "source": "Independent Online"
+    },
+    {
+      "title": "Taxi owner gunned down in Centurion",
+      "description": "A 52-year-old taxi owner was shot and killed while making his way from a meeting in Centurion on Thursday afternoon, reports Centurion ...",
+      "url": "https://citizen.co.za/news/south-africa/crime/2143363/taxi-owner-gunned-down-in-centurion/",
+      "urlToImage": "https://citizen.co.za/wp-content/uploads/2019/06/taxi-killing-centurion-557x418.jpg",
+      "publishedAt": "14 Jun 2019",
+      "source": "Citizen"
+    },
+    {
+      "title": "'I fear something is going to happen' - wife of slain Cape Town taxi ...",
+      "description": "This is the fear Celeste Consani, wife of slain Blackheath-Malibu Taxi Association chairman Patrick Consani, kept sharing with her husband as ...",
+      "url": "https://www.news24.com/SouthAfrica/News/i-fear-something-is-going-to-happen-wife-of-slain-cape-town-taxi-boss-to-husband-before-he-was-shot-20190614",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8999/3a07c544968f4c2c82558225d7e0d6bc.jpg",
+      "publishedAt": "13 Jun 2019",
+      "source": "News24"
+    },
+    {
+      "title": "Two female taxi passengers raped while travelling to Joburg CBD",
+      "description": "“A woman in her 30s had taken a taxi travelling to the Joburg CBD. When the woman boarded, she found five men and one other woman inside ...",
+      "url": "https://citizen.co.za/news/south-africa/crime/2142611/two-female-taxi-passengers-raped-while-travelling-to-joburg-cbd/",
+      "urlToImage": "https://citizen.co.za/wp-content/uploads/2018/12/police-line.jpeg",
+      "publishedAt": "12 Jun 2019",
+      "source": "Citizen"
+    },
+    {
+      "title": "Taxi boss killed amid violent flare-ups over Cape Town routes",
+      "description": "After hearing about this incident, I immediately instructed officials from my department to meet with the leadership of the South African National ...",
+      "url": "https://www.news24.com/SouthAfrica/News/taxi-boss-killed-amid-violent-flare-ups-over-cape-town-routes-20190612",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8796/5c3b69d2eacf43a494cb0c4d411a4dcb.jpg",
+      "publishedAt": "11 Jun 2019",
+      "source": "News24"
+    },
+    {
       "title": "Shock as 'speedster' kills Cape student teacher",
       "description": "“We were three taxis en route to Mitchells Plain from Cape Town via Eisleben Road. Just before the crossing, a taxi stopped. I was the third taxi.",
       "url": "https://www.iol.co.za/news/south-africa/western-cape/shock-as-speedster-kills-cape-student-teacher-25796803",
