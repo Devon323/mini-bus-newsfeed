@@ -2,6 +2,54 @@
   "type": "object",
   "articles": [
     {
+      "title": "Taxi driver allegedly stabs passenger to death in fight over change",
+      "description": "A taxi driver was in police custody after he allegedly stabbed a ... after 7pm, when passengers disembarked from the taxi, said the South African ...",
+      "url": "https://citizen.co.za/news/south-africa/crime/2151117/taxi-driver-allegedly-stabs-passenger-to-death-in-fight-over-change/",
+      "urlToImage": "https://citizen.co.za/wp-content/uploads/2018/02/stabbing-incident-1.jpg",
+      "publishedAt": "05 Jul 2019",
+      "source": "Citizen"
+    },
+    {
+      "title": "Road rage: Fourways taxi driver throws hammer at a motorist [video]",
+      "description": "Road rage: Fourways taxi driver throws hammer at a motorist [video] ... We're no strangers to seeing road rage in South Africa, but this ...",
+      "url": "https://www.thesouthafrican.com/videos/fourways-road-rage-hammer-taxi-driver-video/",
+      "urlToImage": "https://gcs.thesouthafrican.com/2019/07/c0d868b1-taxi-driver-fourways-road-rage-750x375.png",
+      "publishedAt": "04 Jul 2019",
+      "source": "The South African"
+    },
+    {
+      "title": "WATCH | Passenger drives taxi after cop 'pepper-sprays' driver",
+      "description": "A passenger had to make a hasty decision to chuck off her high heels and take over the driving of a taxi after the driver was allegedly ...",
+      "url": "https://www.timeslive.co.za/news/south-africa/2019-07-03-watch-passenger-drives-taxi-after-cop-pepper-sprays-driver/",
+      "urlToImage": "https://lh3.googleusercontent.com/sS_DF0SwTxWyUMQNsEt9F2gAKv5U5C2mVGsngtLwBTBeJiywUXU93M7NGi-i9eLDx-VMrMPyyTFJ5iYDJ2hxv9NVw2hTS30t3w=s750",
+      "publishedAt": "03 Jul 2019",
+      "source": "TimesLIVE"
+    },
+    {
+      "title": "Taxis, cars burnt as 45-minute shootout rocks KZN taxi rank",
+      "description": "A 45-minute shootout at a KwaZulu-Natal taxi rank on Monday night left four taxis and two cars burnt. The incident took place at Mandeni, north ...",
+      "url": "https://www.timeslive.co.za/news/south-africa/2019-07-02-taxis-cars-burnt-as-45-minute-shootout-rocks-kzn-taxi-rank/",
+      "urlToImage": "https://lh3.googleusercontent.com/8aqFqEbqyPKXC_73EsmHcIDohwBV0-mm5v7UqwzvFC9wIPkRwZVGyyKAJQDMmq2Vr_wd3dDfaabKVRtaX_bu99M=s750",
+      "publishedAt": "01 Jul 2019",
+      "source": "TimesLIVE"
+    },
+    {
+      "title": "Elderly woman struck down by taxi in KZN",
+      "description": "Port Elizabeth - Netcare 911 responded to reports of a collision on Monday in Msundusa Street in Sobantu, Pietermaritzburg, where a minibus ...",
+      "url": "https://www.iol.co.za/news/south-africa/kwazulu-natal/elderly-woman-struck-down-by-taxi-in-kzn-28392883",
+      "urlToImage": "https://image.iol.co.za/image/1/process/620x349?source=https://cdn.africannewsagency.com/public/ana/mana/media/image/2019/05/10/11324291/Netcare911.jpg",
+      "publishedAt": "01 Jul 2019",
+      "source": "Independent Online"
+    },
+    {
+      "title": "#Letters: Taxi industry must be held accountable for road carnage",
+      "description": "The taxi industry is massive, and it plays a vital role in the life of most South Africans, whether directly or indirectly. I don't take a taxi, but my ...",
+      "url": "https://www.iol.co.za/the-star/opinion-analysis/letters-taxi-industry-must-be-held-accountable-for-road-carnage-27738042",
+      "urlToImage": "https://image.iol.co.za/image/1/process/620x349?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/111322835.JPG&operation=CROP&offset=0x197&resize=2008x1124",
+      "publishedAt": "26 Jun 2019",
+      "source": "Independent Online"
+    },
+    {
       "title": "24 youngsters made a deadly choice when they changed taxis for ...",
       "description": "The decision to swap transport in favour of a taxi that played better music, proved to be tragically ill-fated for 24 youngsters who died in a horrific ...",
       "url": "https://citizen.co.za/news/south-africa/accidents/2145447/24-youngsters-made-a-deadly-choice-when-they-changed-taxis-for-better-music/",
