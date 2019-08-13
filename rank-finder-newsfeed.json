@@ -2,6 +2,70 @@
   "type": "object",
   "articles": [
     {
+      "title": "Bumper week for traffic department",
+      "description": "Between Thursday 1 August and Sunday 4 August, officers arrested 176 taxi drivers for 1 596 outstanding warrants totaling R2 742 470.",
+      "url": "https://www.news24.com/SouthAfrica/Local/Peoples-Post/bumper-week-for-traffic-department-20190812",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9219/26f15b8535804d08bac1e36f45e24731.jpg",
+      "publishedAt": "13 Aug 2019",
+      "source": "News24"
+    },
+    {
+      "title": "47 murdered in 'devastating weekend' of violence in Cape Town",
+      "description": "A mother stabbed by her teenage son. A taxi driver shot in the face. An eight-months- pregnant mother cut down in a hail of bullets as she ...",
+      "url": "https://www.timeslive.co.za/news/south-africa/2019-08-12-47-murdered-in-devastating-weekend-of-violence-in-cape-town/",
+      "urlToImage": "https://lh3.googleusercontent.com/Bc9Vdra4MWqjAcVJqqrxYijgPGcuxiRmJoVLm81dXnDrjcYJyEFdoTpa8yU_ttIE1roSm4xPpjZnHoD3FAKRKA=s750",
+      "publishedAt": "12 Aug 2019",
+      "source": "TimesLIVE"
+    },
+    {
+      "title": "IFP sends condolences for 6 Zulu maidens killed in taxi crash",
+      "description": "Traditionally, only virgins are permitted to take part in the ceremony and young Zulu women from all over South Africa flock to KwaZulu-Natal to ...",
+      "url": "https://www.iol.co.za/news/south-africa/kwazulu-natal/ifp-sends-condolences-for-6-zulu-maidens-killed-in-taxi-crash-30672308",
+      "urlToImage": "https://image.iol.co.za/image/1/process/620x349?source=https://cdn.africannewsagency.com/public/ana/mana/media/image/2019/08/11/13924463/WhatsAppImage219-8-11at9.5.58.jpeg",
+      "publishedAt": "11 Aug 2019",
+      "source": "Independent Online"
+    },
+    {
+      "title": "E-hailing taxi drivers warned of robbery suspects posing as passengers",
+      "description": "Police spokesperson Captain FC Van Wyk said that on Tuesday, at about 18:30, the taxi driver was called out to pick up clients in Delft South.",
+      "url": "https://www.iol.co.za/news/south-africa/western-cape/e-hailing-taxi-drivers-warned-of-robbery-suspects-posing-as-passengers-30545811",
+      "urlToImage": "https://image.iol.co.za/image/1/process/620x349?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/109721136.JPG",
+      "publishedAt": "09 Aug 2019",
+      "source": "Independent Online"
+    },
+    {
+      "title": "Calls mount for probe into taxi crash that left 21 learners injured",
+      "description": "Durban - The Democratic Alliance in Gauteng has called for an investigation into a taxi accident on Monday morning that left 21 learners ...",
+      "url": "https://www.iol.co.za/news/south-africa/gauteng/calls-mount-for-probe-into-taxi-crash-that-left-21-learners-injured-30372428",
+      "urlToImage": "https://image.iol.co.za/image/1/process/620x349?source=https://inm-baobab-prod-eu-west-1.s3.amazonaws.com/public/inm/media/image/100900810.JPG",
+      "publishedAt": "05 Aug 2019",
+      "source": "Independent Online"
+    },
+    {
+      "title": "George taxi owner shot dead in bakkie",
+      "description": "A taxi owner was shot dead in his vehicle in Thembalethu, George, in the Southern Cape, police said on Sunday. Prince Mmola, 32, was sitting ...",
+      "url": "https://www.news24.com/SouthAfrica/News/george-taxi-owner-shot-dead-in-bakkie-20190728",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9042/fbf8d982d6da4c0daf0010c96a86acd3.jpg",
+      "publishedAt": "28 Jul 2019",
+      "source": "News24"
+    },
+    {
+      "title": "Taxi rolls into swamp, leaving 16 injured",
+      "description": "Four people were seriously injured when a taxi rolled into a swamp outside Welkom in the Free State on Sunday afternoon. A dozen other ...",
+      "url": "https://www.timeslive.co.za/news/south-africa/2019-07-21-taxi-rolls-into-swamp-leaving-16-injured/",
+      "urlToImage": "https://lh3.googleusercontent.com/0ts_PrXaoQRae5dOIY98VV8Ghu8mpNTPjK364tkhkyz6mGW_nIWOEyGbW8w6U7H7xh7jTU8-ji_qYcJkghs2xg8=s750",
+      "publishedAt": "21 Jul 2019",
+      "source": "TimesLIVE"
+    },
+    {
+      "title": "City of Cape Town, taxi owners at odds over new R15m taxi rank near ...",
+      "description": "The City of Cape Town and taxi owners in Masiphumelele, near Noordhoek, are at odds over a new R15m taxi rank. The rank, completed in ...",
+      "url": "https://www.news24.com/SouthAfrica/News/city-of-cape-town-taxi-owners-at-odds-over-new-r15m-taxi-rank-near-noordhoek-20190715",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/8999/199d98c4016645238bcaf12f90dbc4b9.jpg",
+      "publishedAt": "15 Jul 2019",
+      "source": "News24"
+    },
+    {
       "title": "Taxi driver allegedly stabs passenger to death in fight over change",
       "description": "A taxi driver was in police custody after he allegedly stabbed a ... after 7pm, when passengers disembarked from the taxi, said the South African ...",
       "url": "https://citizen.co.za/news/south-africa/crime/2151117/taxi-driver-allegedly-stabs-passenger-to-death-in-fight-over-change/",
